@@ -1,0 +1,33 @@
+_repo: Il-faut-marier-Jean_74853
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ardel, Henri
+    aliases:
+    - Abraham, Berthe
+    - Ardel, Henry
+    birthdate: 1863
+    deathdate: 1938
+    gutenberg_agent_id: '34968'
+    url: http://www.gutenberg.org/2009/agents/34968
+    wikipedia: https://fr.wikipedia.org/wiki/Henri_Ardel
+description: ''
+gutenberg_issued: '2024-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74853'
+language: fr
+pgterms:marc904: https://www.bcub.ro/lib2life/Il%20faut%20marier%20Jean_Ardel%20Henri_Paris_1941.pdf
+pgterms:marc905: 20240215223723ardel
+pgterms:marc906: '1921'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Biblioteca Centrală Universitară Carol I, Bucharest, Romania)
+publication_note: '  $aParis :$bPlon, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Il faut marier Jean
+url: http://www.gutenberg.org/ebooks/74853
